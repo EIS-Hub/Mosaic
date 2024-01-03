@@ -29,11 +29,18 @@ Our preprocessing of Spiking Heidelberg Digits (SHD) and Spiking Google Speech C
 If you find this code useful, feel free to cite our paper:
 
 ```
-@article{mosaic2024,
-  title={Mosaic: in-memory computing and routing for small-world spike-based neuromorphic systems},
-  author={Thomas Dalgaty, Filippo Moro, Yigit Demirag, Alessio De Pra, Giacomo Indiveri, Elisa Vianello, and Melika Payvand},
-  journal={Nature Communications},
-  year={2024}
+@article{Dalgaty2024,
+  title = {Mosaic: in-memory computing and routing for small-world spike-based neuromorphic systems},
+  volume = {15},
+  ISSN = {2041-1723},
+  url = {http://dx.doi.org/10.1038/s41467-023-44365-x},
+  DOI = {10.1038/s41467-023-44365-x},
+  number = {1},
+  journal = {Nature Communications},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Dalgaty,  Thomas and Moro,  Filippo and Demirağ,  Yiğit and De Pra,  Alessio and Indiveri,  Giacomo and Vianello,  Elisa and Payvand,  Melika},
+  year = {2024},
+  month = jan 
 }
 ```
 
