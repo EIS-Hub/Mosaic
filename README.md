@@ -1,4 +1,4 @@
-This repository is the official `neuromorphic Mosaic` code repository provided by [Yigit Demirag](https://yigit.ai).
+This repository is the official [Mosaic](https://www.nature.com/articles/s41467-023-44365-x ) code repository provided by [Yigit Demirag](https://yigit.ai).
 
 ### Getting Started
 
@@ -21,7 +21,7 @@ PS: We used seeds `{42,52,62,72,82}` for our experiments.
 
 ### Acknowledgement
 
-Our preprocessing of Spiking Heidelberg Digits (SHD) and Spiking Google Speech Commands (SSC) datasets is based on the code from [https://github.com/fzenke/spytorch](SpyTorch from Friedemann Zenke).
+Our preprocessing of Spiking Heidelberg Digits (SHD) and Spiking Google Speech Commands (SSC) datasets is based on the code from [SpyTorch from Friedemann Zenke](https://github.com/fzenke/spytorch).
 
 
 ### Citation
